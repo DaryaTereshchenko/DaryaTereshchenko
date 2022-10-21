@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DaryaTereshchenko
-- 👀 I’m interested in NLP and Machine Learning
-- 🌱 I’m currently learning NLP and ML
+- 👋 Hi, I’m Daria Stetsenko an NLP Engineer at NASK Research Institute
+- 👀 I’m interested in Natural Language Processing and Machine Learning
+- 🌱 I’m currently a Ph.D. student at Polish Academy of Sciences working on Hate speech detection and stylometric text analysis
 - 💞️ I’m looking to collaborate on NLP tasks
 - 📫 How to reach me dara.stetsenko97@gmail.com
 
