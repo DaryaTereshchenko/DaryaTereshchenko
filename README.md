@@ -2,7 +2,7 @@
 - 👀 I’m interested in Natural Language Processing and Machine Learning
 - 🌱 I’m currently a Ph.D. student.
 - 💞️ I’m looking to collaborate on NLP tasks
-- 📫 How to reach me dara.stetsenko97@gmail.com
+- 📫 How to reach me stetsenkodaria97@gmail.com
 
 <!---
 DaryaTereshchenko/DaryaTereshchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
