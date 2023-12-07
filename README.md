@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Daria Stetsenko an NLP Engineer at NASK Research Institute
-- 👀 I’m interested in Natural Language Processing and Machine Learning
-- 🌱 I’m currently a Ph.D. student.
-- 💞️ I’m looking to collaborate on NLP tasks
-- 📫 How to reach me stetsenkodaria97@gmail.com
+- 👋 Hi, I’m Daria (Dasha)
+- 👩🏻‍🎓 Current MSc Sudent at Zurich Uni (taking some cources at ETH too) 
+- 👀 I’m interested in LLMs, Cognitive Science and Speech Processing
+- 📫 How to reach me [LinckedIn](www.linkedin.com/in/dariastetsenko)
 
 <!---
 DaryaTereshchenko/DaryaTereshchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
