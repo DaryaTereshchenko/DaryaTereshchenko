@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daria (Dasha)
-- 👩🏻‍🎓 Current MSc Student at Zurich University (taking some lectures from ETH too) 
+- 👩🏻‍🎓 Currently MSc Student at Zurich University (taking some lectures from ETH too) 
 - 👀 I’m interested in LLMs, Cognitive Science and Speech Processing
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/dariastetsenko)
 
