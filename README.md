@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daria (Dasha)
 - 👩🏻‍🎓 Currently MA Student at Zurich University
-- 👀 I’m interested in LLMs, Cognitive Science and Speech Processing
+- 👀 I’m interested in transformers, LLMs explainability, and NLP.
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/dariastetsenko)
 
 <!---
