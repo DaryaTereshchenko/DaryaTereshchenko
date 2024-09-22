@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daria (Dasha)
 - 👩🏻‍🎓 Currently MA Student at Zurich University
 - 🖥️ Major: Computational Linguistics; Minor: CS
-- 👀 I’m interested in transformers, LLMs explainability, and NLP.
+- 👀 I’m interested in LLMs explainability, alignment, ethical AI.
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/dariastetsenko)
 
 <!---
