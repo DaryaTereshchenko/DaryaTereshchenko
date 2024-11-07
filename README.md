@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daria (Dasha)
+- 👋 Hi, I’m Daria (Dasha) 💙💛
 - 👩🏻‍🎓 Currently MA Student at Zurich University
 - 🖥️ Major: Computational Linguistics; Minor: CS
 - 👀 I’m interested in LLMs explainability, alignment, ethical AI.
